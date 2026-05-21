@@ -44,7 +44,7 @@ Fingerprint-BloodGroup-Detection/
 ## 🔧 How to Run
 
 1. **Clone the Repository*
-   git clone https://github.com/your-username/fingerprint-bloodgroup.git
+   git clone https://github.com/harshinivennamaneni5875/fingerprint-bloodgroup.git
    cd fingerprint-bloodgroup
    
 3. **Install Dependencies**
@@ -84,8 +84,8 @@ Output: Predicted Blood Group (e.g., B+)
 
 
 👩‍💻 Author
-Saindla Srinithya – Final Year CSE (AIML)
-Email: [srinithyasridhar@gmail.com]
+Vennamaneni Harshini – Final Year CSE (AIML)
+Email: [harshinivennamaneni1@gmail.com]
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
