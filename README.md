@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FingerPrint-Based-Blood-Group-Detection
 
 This project implements a deep learning-based system to predict an individual's blood group from fingerprint images. The system uses CNN and RNN architectures to analyze ridge patterns and temporal features for accurate classification.
@@ -88,3 +89,6 @@ Email: [srinithyasridhar@gmail.com]
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# FingerPrint-Based-Blood-Group-Detection
+>>>>>>> 482b6d91300d673e3a8fa9231804f20170d45998
